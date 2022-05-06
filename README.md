@@ -1,4 +1,3 @@
-# 
 Place-holder for my modded in items
 
 ## Installation (placeholder - no release at this time)
@@ -6,5 +5,5 @@ Place-holder for my modded in items
 * Drag the `JTspectre'sItemPack` folder to `ModComponentExtractor.exe`
 * Move the resulting `JTspectre'sItemPack.modcomponent` to your /mods folder
 
-## Credits:
+## Special thanks to:
 The Long Dark Modding discord server
