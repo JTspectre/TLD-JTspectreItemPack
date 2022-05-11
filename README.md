@@ -1,4 +1,5 @@
-My modded in items for The Long Dark. See [wiki](https://github.com/JTspectre/TLD-JTspectreItemPack/wiki) for details.
+My modded in items for The Long Dark.
+See [wiki](https://github.com/JTspectre/TLD-JTspectreItemPack/wiki) for details.
 
 ## Installation
 * Download and install the latest version of [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
