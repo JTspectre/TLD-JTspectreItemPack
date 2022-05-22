@@ -22,13 +22,13 @@
                             },
     "ModFireStarterBehaviour" : {
                                 "DestroyedOnUse" : false,
-                                "NumberOfUses" : 100,
+                                "NumberOfUses" : 40,
                                 "OnUseSoundEvent" : "Play_SndActionFireMatchLight1",
                                 "RequiresSunLight" : false,
                                 "RuinedAfterUse" : false,
-                                "SecondsToIgniteTinder" : 1,
-                                "SecondsToIgniteTorch" : 1,
-                                "SuccessModifier" : 15
+                                "SecondsToIgniteTinder" : 2,
+                                "SecondsToIgniteTorch" : 2,
+                                "SuccessModifier" : 10
                                 "DurationOffset" : 0
                             }
 }
