@@ -1,0 +1,28 @@
+{
+    "ModLiquidComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_OilBarrel",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_OilBarrelDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 10,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : " Firestarting",
+                                "PickUpAudio" : "",
+                                "PutBackAudio" : "",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, -0.12, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "LiquidType" : "Kerosene",
+                                "LiquidCapacityLiters" : 208.0,
+                                "RandomizedQuantity" : true,
+                                "LiquidLiters" : 0.75
+                            }
+}
