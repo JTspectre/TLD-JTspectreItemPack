@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_MagnesiumBar",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_MagnesiumBarDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.10,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Firestarting",
+                                "PickUpAudio" : "Play_SndInvGenericSmall",
+                                "PutBackAudio" : "Play_SndInvGenericSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.3,
+                                "InspectAngles" : [0, 50, 0],
+                                "InspectOffset" : [0, -0.035, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "",
+                                "Minutes" : 20,
+                                "YieldCounts" : [5],
+                                "YieldNames" : ["GEAR_Cloth"],
+                                "RequiredToolNames" : ["GEAR_Knife", "GEAR_KnifeImprovised", "GEAR_JeremiahKnife", "GEAR_SimpleTools", "GEAR_HighQualityTools"]
+                            }
+}

@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Kardyne.TLDBuildExtensions/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/Kardyne.TLDBuildExtensions.props": {},
+          "build/Kardyne.TLDBuildExtensions.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Kardyne.TLDBuildExtensions/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/Kardyne.TLDBuildExtensions.props": {},
+          "build/Kardyne.TLDBuildExtensions.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Kardyne.TLDBuildExtensions/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/Kardyne.TLDBuildExtensions.props": {},
+          "build/Kardyne.TLDBuildExtensions.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Kardyne.TLDBuildExtensions/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/Kardyne.TLDBuildExtensions.props": {},
+          "build/Kardyne.TLDBuildExtensions.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kardyne.TLDBuildExtensions/1.0.0": {
+      "sha512": "JojQXVZvxouWZz6G70/l4JdL3GOBQBtKBqU/KULSDKjuz7Inf6cQ2uK6SjZ32xRc2sM58aEdqvYsqlsxtFg9Ng==",
+      "type": "package",
+      "path": "kardyne.tldbuildextensions/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Epic.props",
+        "build/Kardyne.TLDBuildExtensions.props",
+        "build/Kardyne.TLDBuildExtensions.targets",
+        "build/Steam.props",
+        "kardyne.tldbuildextensions.1.0.0.nupkg.sha512",
+        "kardyne.tldbuildextensions.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Kardyne.TLDBuildExtensions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\JTSpe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\JTSpe\\Desktop\\JTspectre's Mods\\In Development\\VisualStudio\\JTspectre'sItemPack\\repos backup\\JTspectre'sItemPack\\Code\\JTspectre'sItemPack.csproj",
+      "projectName": "JTspectre'sItemPack",
+      "projectPath": "C:\\Users\\JTSpe\\Desktop\\JTspectre's Mods\\In Development\\VisualStudio\\JTspectre'sItemPack\\repos backup\\JTspectre'sItemPack\\Code\\JTspectre'sItemPack.csproj",
+      "packagesPath": "C:\\Users\\JTSpe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JTSpe\\Desktop\\JTspectre's Mods\\In Development\\VisualStudio\\JTspectre'sItemPack\\repos backup\\JTspectre'sItemPack\\Code\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\JTSpe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Kardyne.TLDBuildExtensions": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
