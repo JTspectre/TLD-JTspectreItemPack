@@ -1,0 +1,57 @@
+{
+    "ModClothingComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_SmallBackpackA",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_SmallBackpackADescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.5,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Clothing",
+                                "PickUpAudio" : "Play_SndInvGenericSmall",
+                                "PutBackAudio" : "Play_SndInvGenericSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.3,
+                                "InspectAngles" : [0, 50, 0],
+                                "InspectOffset" : [0, -0.035, 0],
+                                "InspectScale" :  [0.5, 0.5, 0.5],
+                                "NormalModel" : "",
+                                "InspectModel" : "",
+
+                                "Region" : "Accessory",
+                                "MinLayer" : "Mid",
+                                "MaxLayer" : "Mid",
+                                "MovementSound" : "None",
+                                "Footwear" : "None",
+                                "DaysToDecayWornOutside" : 450,
+                                "DaysToDecayWornInside" : 1000,
+                                "Warmth" : 0,
+                                "WarmthWhenWet" : 0,
+                                "Windproof" : 0,
+                                "Waterproofness" : 66,
+                                "Toughness" : 5,
+                                "SprintBarReduction" : 0,
+                                "DecreaseAttackChance" : 0,
+                                "IncreaseFleeChance" : 0,
+                                "HoursToDryNearFire" : 4,
+                                "HoursToDryWithoutFire" : 8,
+                                "HoursToFreeze" : 4,
+                                "MainTexture" : "",
+                                "BlendTexture" : "",
+                                "DrawLayer" : 2,
+                                "ImplementationType" : ""
+                            },
+    "ModCarryingCapacityBehaviour": {
+                                "MaxCarryCapacityKGBuff" : 10
+                            },
+    "ModRepairableBehaviour" : {
+                                "Audio" : "",
+                                "Minutes" : 45,
+                                "Condition" : 33,
+                                "RequiredTools" : ["GEAR_SewingKit"],
+                                "MaterialNames" : ["GEAR_Cloth"],
+                                "MaterialCounts" : [1]
+                            }
+}

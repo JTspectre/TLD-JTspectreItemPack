@@ -27,9 +27,12 @@ namespace JTspectreItemPack
         public static int changedLayerNum = layerGear;
         public static int changedLayerChild0Num = 0; 
 
-        static string[] targetGearNameArray = { 
-            "GEAR_OilBarrel",
-            "GEAR_CanvasTent"
+        static string[] targetGearNameArray = {
+            "GEAR_CanvasTentUnpacked",
+            "GEAR_HockeyPuck",
+            "GEAR_HockeyPuckOfficial",
+            "GEAR_HockeyStickB",
+            "GEAR_OilBarrel"
         };
 
         /*

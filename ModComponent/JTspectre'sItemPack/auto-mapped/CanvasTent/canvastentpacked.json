@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_CanvasTentPacked",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_CanvasTentPackedDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 6.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Random",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "",
+                                "PutBackAudio" : "",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [0.75, 0.75, 0.75],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "",
+                                "Minutes" : 40,
+                                "YieldCounts" : [8,2,3],
+                                "YieldNames" : ["GEAR_Cloth","GEAR_LeatherDried","GEAR_ScrapMetal"],
+                                "RequiredToolNames" : []
+                            }
+}

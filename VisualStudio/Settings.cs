@@ -6,10 +6,10 @@ namespace JTspectreItemPack
 {
     internal class DiySettings : JsonModSettings
     {
-        [Section("Colliders")]
+        [Section("Colliders: If enabled, these objects will have collision.")]
 
-        [Name("Enable Collision : Oil Barrel, Tent")]
-        [Description("If enabled, you will not be able to walk through these objects. If disabled, you can.")]
+        [Name("Enable")]
+        [Description("Collision: CanvasTent, HockeyPuck, HockeyPuckOfficial, HockeyStick, OilBarrel")]
         public bool diyBoardsBoolVal = true;
         
         /*

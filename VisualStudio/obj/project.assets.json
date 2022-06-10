@@ -67,11 +67,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JTSpe\\Desktop\\JTspectre's Mods\\In Development\\VisualStudio\\JTspectre'sItemPack\\repos backup\\JTspectre'sItemPack\\Code\\JTspectre'sItemPack.csproj",
+      "projectUniqueName": "C:\\Users\\JTSpe\\Documents\\GitHub\\TLD-JTspectreItemPack\\VisualStudio\\JTspectre'sItemPack.csproj",
       "projectName": "JTspectre'sItemPack",
-      "projectPath": "C:\\Users\\JTSpe\\Desktop\\JTspectre's Mods\\In Development\\VisualStudio\\JTspectre'sItemPack\\repos backup\\JTspectre'sItemPack\\Code\\JTspectre'sItemPack.csproj",
+      "projectPath": "C:\\Users\\JTSpe\\Documents\\GitHub\\TLD-JTspectreItemPack\\VisualStudio\\JTspectre'sItemPack.csproj",
       "packagesPath": "C:\\Users\\JTSpe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JTSpe\\Desktop\\JTspectre's Mods\\In Development\\VisualStudio\\JTspectre'sItemPack\\repos backup\\JTspectre'sItemPack\\Code\\obj\\",
+      "outputPath": "C:\\Users\\JTSpe\\Documents\\GitHub\\TLD-JTspectreItemPack\\VisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

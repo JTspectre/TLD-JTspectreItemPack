@@ -16,3 +16,12 @@ C:\Users\JTSpe\Desktop\JTspectre's Mods\In Development\VisualStudio\JTspectre'sI
 C:\Users\JTSpe\Desktop\JTspectre's Mods\In Development\VisualStudio\JTspectre'sItemPack\repos backup\JTspectre'sItemPack\Code\obj\Debug\JTspectre'sItemPack.csproj.CopyComplete
 C:\Users\JTSpe\Desktop\JTspectre's Mods\In Development\VisualStudio\JTspectre'sItemPack\repos backup\JTspectre'sItemPack\Code\obj\Debug\JTspectre'sItemPack.dll
 C:\Users\JTSpe\Desktop\JTspectre's Mods\In Development\VisualStudio\JTspectre'sItemPack\repos backup\JTspectre'sItemPack\Code\obj\Debug\JTspectre'sItemPack.pdb
+C:\Users\JTSpe\Documents\GitHub\TLD-JTspectreItemPack\VisualStudio\bin\Debug\JTspectre'sItemPack.dll
+C:\Users\JTSpe\Documents\GitHub\TLD-JTspectreItemPack\VisualStudio\bin\Debug\JTspectre'sItemPack.pdb
+C:\Users\JTSpe\Documents\GitHub\TLD-JTspectreItemPack\VisualStudio\bin\Debug\0Harmony.dll
+C:\Users\JTSpe\Documents\GitHub\TLD-JTspectreItemPack\VisualStudio\bin\Debug\UnhollowerRuntimeLib.dll
+C:\Users\JTSpe\Documents\GitHub\TLD-JTspectreItemPack\VisualStudio\obj\Debug\JTspectre'sItemPack.csproj.AssemblyReference.cache
+C:\Users\JTSpe\Documents\GitHub\TLD-JTspectreItemPack\VisualStudio\obj\Debug\JTspectre'sItemPack.csproj.CoreCompileInputs.cache
+C:\Users\JTSpe\Documents\GitHub\TLD-JTspectreItemPack\VisualStudio\obj\Debug\JTspectre'sItemPack.csproj.CopyComplete
+C:\Users\JTSpe\Documents\GitHub\TLD-JTspectreItemPack\VisualStudio\obj\Debug\JTspectre'sItemPack.dll
+C:\Users\JTSpe\Documents\GitHub\TLD-JTspectreItemPack\VisualStudio\obj\Debug\JTspectre'sItemPack.pdb

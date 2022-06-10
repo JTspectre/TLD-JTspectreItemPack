@@ -1,0 +1,39 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_AMagnesiumShaving",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_AMagnesiumShavingDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.05,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "High",
+                                "InventoryCategory" : "Firestarting",
+                                "PickUpAudio" : "Play_SndInvGenericSmall",
+                                "PutBackAudio" : "Play_SndInvGenericSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.3,
+                                "InspectAngles" : [0, 50, 0],
+                                "InspectOffset" : [0, -0.035, 0],
+                                "InspectScale" :  [0.5, 0.5, 0.5],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+    "ModAccelerantBehaviour": {
+                                "DestroyedOnUse" : true,
+                                "DurationOffset" : -1,
+                                "SuccessModifier" : 20
+                            },
+    "ModTinderBehaviour": {
+                                "DurationOffset" : 0,
+                                "SuccessModifier" : 15
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_MagnesiumShavings",
+                                "MultipleUnitTextId" : "GAMEPLAY_MagnesiumShavings",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 5,
+                                "ChanceFull" : 80
+                            },
+}

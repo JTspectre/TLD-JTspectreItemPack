@@ -24,7 +24,7 @@
                                 "Audio" : "",
                                 "Minutes" : 20,
                                 "YieldCounts" : [5],
-                                "YieldNames" : ["GEAR_Cloth"],
+                                "YieldNames" : ["GEAR_AMagnesiumShaving"],
                                 "RequiredToolNames" : ["GEAR_Knife", "GEAR_KnifeImprovised", "GEAR_JeremiahKnife", "GEAR_SimpleTools", "GEAR_HighQualityTools"]
                             }
 }
